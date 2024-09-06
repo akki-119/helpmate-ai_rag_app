@@ -11,6 +11,9 @@ The RAG system involves two main components:
 
 ### System Architecture
 
+![image](https://github.com/user-attachments/assets/0b1eedd1-2662-4b62-91eb-54417906a00c)
+
+### Basic RAG Pipeline in LlamaIndex:
 ![image](https://github.com/user-attachments/assets/dbc4d2d0-0c1a-4ab2-9a5f-a91a4aa44ec3)
 
 ● We employed LlamaIndex as it allows us to read files of various formats with ease to create a vector database.
