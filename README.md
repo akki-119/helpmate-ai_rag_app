@@ -12,6 +12,8 @@ The RAG system involves two main components:
 ### System Architecture
 
 ![image](https://github.com/user-attachments/assets/0b1eedd1-2662-4b62-91eb-54417906a00c)
+![image](https://github.com/user-attachments/assets/20a4f885-08f4-4207-92d8-e79fcdd826ab)
+
 
 ### Basic RAG Pipeline in LlamaIndex:
 ![image](https://github.com/user-attachments/assets/dbc4d2d0-0c1a-4ab2-9a5f-a91a4aa44ec3)
